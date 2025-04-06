@@ -1,0 +1,9 @@
+[package]
+name = "rbf"
+version = "1.0.0"
+edition = "2024"
+description = "A Brainfuck interpreter written in rust."
+
+[dependencies]
+clap = { version = "4.5.32", features = ["derive"] }
+fxhash = "0.2.1"
