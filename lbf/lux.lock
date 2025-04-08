@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "dependencies": {
+    "rocks": {
+      "53354d74f32b1021f02e941b2345541d342132425020dec37db7436db83c4848": {
+        "name": "classy",
+        "version": "0.4-1",
+        "pinned": false,
+        "opt": false,
+        "dependencies": [],
+        "constraint": "==0.4",
+        "binaries": [],
+        "source": "luarocks_rockspec+https://luarocks.org/",
+        "source_url": {
+          "type": "git",
+          "url": "https://github.com/siffiejoe/lua-classy.git",
+          "ref": "v0.4"
+        },
+        "hashes": {
+          "rockspec": "sha256-6bgkdcIsD+KL0NAXu/I0ynwJiTtvCqFtpvJoGfjxT6A=",
+          "source": "sha256-E+wPlh63t4TWmUQ5NbtiuUg/4DePS6Uylua7QRC/S90="
+        }
+      }
+    },
+    "entrypoints": [
+      "53354d74f32b1021f02e941b2345541d342132425020dec37db7436db83c4848"
+    ]
+  }
+}

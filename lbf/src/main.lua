@@ -1,4 +1,4 @@
-local Interpreter = require("src/inter")
+local Interpreter = require("inter")
 
 local program
 

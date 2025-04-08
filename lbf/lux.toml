@@ -1,0 +1,18 @@
+package = "lbf"
+version = "1.0.0"
+lua = ">=5.4"
+
+[description]
+summary = "A Brainfuck interpreter written in lua."
+maintainer = "cyeganeh"
+labels = [""]
+
+
+[dependencies]
+classy = "0.4-1"
+
+[run]
+args = ["src/main.lua"]
+
+[build]
+type = "builtin"
