@@ -10,6 +10,7 @@ labels = [""]
 
 [dependencies]
 classy = "0.4-1"
+luafilesystem = "1.8.0-1"
 
 [run]
 args = ["src/main.lua"]
